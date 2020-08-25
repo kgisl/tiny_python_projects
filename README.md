@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kyclark/tiny_python_projects)
+
 # Introduction
 
 This is the code repository for the Manning Publications book, _Tiny Python Projects_, by Ken Youens-Clark:
